@@ -1,0 +1,61 @@
+com.example.shoe_ecommerce.app-core-1.13.1-0 C:\Users\memoz\.gradle\caches\8.10.2\transforms\07e72b01909f4d29b83644348de2ac08\transformed\core-1.13.1\res
+com.example.shoe_ecommerce.app-jetified-core-ktx-1.13.1-1 C:\Users\memoz\.gradle\caches\8.10.2\transforms\0f5d783cd31a310af5d0ce88848175d6\transformed\jetified-core-ktx-1.13.1\res
+com.example.shoe_ecommerce.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-2 C:\Users\memoz\.gradle\caches\8.10.2\transforms\1af1df3228fbef2320679ea0041e4ee6\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.shoe_ecommerce.app-jetified-datastore-preferences-release-3 C:\Users\memoz\.gradle\caches\8.10.2\transforms\1bf24a5b3043e69df83b458da68aaf74\transformed\jetified-datastore-preferences-release\res
+com.example.shoe_ecommerce.app-jetified-ads-adservices-1.1.0-beta11-4 C:\Users\memoz\.gradle\caches\8.10.2\transforms\1e680732599bbc797cce9c1f6026249e\transformed\jetified-ads-adservices-1.1.0-beta11\res
+com.example.shoe_ecommerce.app-jetified-credentials-play-services-auth-1.2.0-rc01-5 C:\Users\memoz\.gradle\caches\8.10.2\transforms\228dfec26da693bf68028880fdd2b1eb\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.shoe_ecommerce.app-jetified-lifecycle-runtime-ktx-2.7.0-6 C:\Users\memoz\.gradle\caches\8.10.2\transforms\2a91913c10fd907187d5c06c9db7b5f9\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.shoe_ecommerce.app-core-runtime-2.2.0-7 C:\Users\memoz\.gradle\caches\8.10.2\transforms\3804b1af064f2cdbd6ccffbae3281a3d\transformed\core-runtime-2.2.0\res
+com.example.shoe_ecommerce.app-jetified-lifecycle-process-2.7.0-8 C:\Users\memoz\.gradle\caches\8.10.2\transforms\39fb1cb54c50fb78d7fbf4e9444924d1\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.shoe_ecommerce.app-jetified-appcompat-resources-1.1.0-9 C:\Users\memoz\.gradle\caches\8.10.2\transforms\3c64983664d8d81e82a24151bac5e5e8\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.shoe_ecommerce.app-lifecycle-livedata-core-2.7.0-10 C:\Users\memoz\.gradle\caches\8.10.2\transforms\4acf897e3cbf513c229c58838743e4e3\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.shoe_ecommerce.app-jetified-profileinstaller-1.3.1-11 C:\Users\memoz\.gradle\caches\8.10.2\transforms\513dd159522c0e2f81fbfe403fd67556\transformed\jetified-profileinstaller-1.3.1\res
+com.example.shoe_ecommerce.app-jetified-window-1.2.0-12 C:\Users\memoz\.gradle\caches\8.10.2\transforms\538981fe772585530cb86fb8263090f3\transformed\jetified-window-1.2.0\res
+com.example.shoe_ecommerce.app-jetified-firebase-common-21.0.0-13 C:\Users\memoz\.gradle\caches\8.10.2\transforms\5dba55980cb742bac322dd924df76b76\transformed\jetified-firebase-common-21.0.0\res
+com.example.shoe_ecommerce.app-jetified-tracing-1.2.0-14 C:\Users\memoz\.gradle\caches\8.10.2\transforms\65ccbac908965e03e4361ee908d8d775\transformed\jetified-tracing-1.2.0\res
+com.example.shoe_ecommerce.app-jetified-datastore-release-15 C:\Users\memoz\.gradle\caches\8.10.2\transforms\665b84a160d03f6d86c3db483bd6e8b1\transformed\jetified-datastore-release\res
+com.example.shoe_ecommerce.app-jetified-credentials-1.2.0-rc01-16 C:\Users\memoz\.gradle\caches\8.10.2\transforms\66c1ca26ac933f3bc8255cee460818e9\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.shoe_ecommerce.app-jetified-play-services-base-18.5.0-17 C:\Users\memoz\.gradle\caches\8.10.2\transforms\6f04845d5efab3ac53935c57c42359c9\transformed\jetified-play-services-base-18.5.0\res
+com.example.shoe_ecommerce.app-lifecycle-runtime-2.7.0-18 C:\Users\memoz\.gradle\caches\8.10.2\transforms\72613664853b9ad331803eea3b7cbc16\transformed\lifecycle-runtime-2.7.0\res
+com.example.shoe_ecommerce.app-jetified-ads-adservices-java-1.1.0-beta11-19 C:\Users\memoz\.gradle\caches\8.10.2\transforms\765601d8258976d6047275e24d52e670\transformed\jetified-ads-adservices-java-1.1.0-beta11\res
+com.example.shoe_ecommerce.app-jetified-play-services-basement-18.5.0-20 C:\Users\memoz\.gradle\caches\8.10.2\transforms\7c2ed3bc4c8f179fe82c2fb311221ab9\transformed\jetified-play-services-basement-18.5.0\res
+com.example.shoe_ecommerce.app-jetified-fragment-ktx-1.7.1-21 C:\Users\memoz\.gradle\caches\8.10.2\transforms\88c30f46fc2cf1f85c1616f5637700f6\transformed\jetified-fragment-ktx-1.7.1\res
+com.example.shoe_ecommerce.app-jetified-savedstate-ktx-1.2.1-22 C:\Users\memoz\.gradle\caches\8.10.2\transforms\95c018b722f94f66e5bd03909d51ff83\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.shoe_ecommerce.app-recyclerview-1.0.0-23 C:\Users\memoz\.gradle\caches\8.10.2\transforms\9a6b07549c552776c02c3738147088cb\transformed\recyclerview-1.0.0\res
+com.example.shoe_ecommerce.app-jetified-startup-runtime-1.1.1-24 C:\Users\memoz\.gradle\caches\8.10.2\transforms\9cbef066bafeed16bdec2486fc9c122b\transformed\jetified-startup-runtime-1.1.1\res
+com.example.shoe_ecommerce.app-jetified-play-services-auth-21.0.0-25 C:\Users\memoz\.gradle\caches\8.10.2\transforms\9e20d26ec1ae8679ccfcf2222bd86d7a\transformed\jetified-play-services-auth-21.0.0\res
+com.example.shoe_ecommerce.app-coordinatorlayout-1.0.0-26 C:\Users\memoz\.gradle\caches\8.10.2\transforms\a654577f99071b60b7eea6328443a7b0\transformed\coordinatorlayout-1.0.0\res
+com.example.shoe_ecommerce.app-jetified-savedstate-1.2.1-27 C:\Users\memoz\.gradle\caches\8.10.2\transforms\b2fa48b3afa30270d3e028d73d69fd9a\transformed\jetified-savedstate-1.2.1\res
+com.example.shoe_ecommerce.app-transition-1.4.1-28 C:\Users\memoz\.gradle\caches\8.10.2\transforms\b89ea7482f083958c6b96f29dca5da6d\transformed\transition-1.4.1\res
+com.example.shoe_ecommerce.app-fragment-1.7.1-29 C:\Users\memoz\.gradle\caches\8.10.2\transforms\b8b921b03cdae412f2f2d7e5b8b883e2\transformed\fragment-1.7.1\res
+com.example.shoe_ecommerce.app-jetified-annotation-experimental-1.4.0-30 C:\Users\memoz\.gradle\caches\8.10.2\transforms\bc981398a9ada5297ae25b51a5e9f8ce\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.shoe_ecommerce.app-jetified-lifecycle-livedata-core-ktx-2.7.0-31 C:\Users\memoz\.gradle\caches\8.10.2\transforms\bea1ce0262ef2a3f916dc6d38008000f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.shoe_ecommerce.app-slidingpanelayout-1.2.0-32 C:\Users\memoz\.gradle\caches\8.10.2\transforms\c332f8499a380e20251935b4bf484147\transformed\slidingpanelayout-1.2.0\res
+com.example.shoe_ecommerce.app-jetified-lifecycle-viewmodel-ktx-2.7.0-33 C:\Users\memoz\.gradle\caches\8.10.2\transforms\c753678d0855353e8313e7a7f7193d45\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.shoe_ecommerce.app-jetified-datastore-core-release-34 C:\Users\memoz\.gradle\caches\8.10.2\transforms\c8c5a2f43de5d260833962522c943b5f\transformed\jetified-datastore-core-release\res
+com.example.shoe_ecommerce.app-appcompat-1.1.0-35 C:\Users\memoz\.gradle\caches\8.10.2\transforms\c9d5d98e56cbf1b48f02b6f957de5192\transformed\appcompat-1.1.0\res
+com.example.shoe_ecommerce.app-browser-1.4.0-36 C:\Users\memoz\.gradle\caches\8.10.2\transforms\de19d5d4c915bfead60dbaa8c4cd3df2\transformed\browser-1.4.0\res
+com.example.shoe_ecommerce.app-lifecycle-viewmodel-2.7.0-37 C:\Users\memoz\.gradle\caches\8.10.2\transforms\dfe40edcf37873221ca745834d6d9c43\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.shoe_ecommerce.app-jetified-core-1.0.0-38 C:\Users\memoz\.gradle\caches\8.10.2\transforms\e00babdf0af67ecfab2ae971a9dc69ff\transformed\jetified-core-1.0.0\res
+com.example.shoe_ecommerce.app-preference-1.2.1-39 C:\Users\memoz\.gradle\caches\8.10.2\transforms\e52d16c85d5fed1d106c220e7bd21d98\transformed\preference-1.2.1\res
+com.example.shoe_ecommerce.app-jetified-activity-ktx-1.9.3-40 C:\Users\memoz\.gradle\caches\8.10.2\transforms\e709e5816dc3a1f88ea0a96ea5cc2b23\transformed\jetified-activity-ktx-1.9.3\res
+com.example.shoe_ecommerce.app-jetified-window-java-1.2.0-41 C:\Users\memoz\.gradle\caches\8.10.2\transforms\ef777a20ffa7180b424ca873ede59b81\transformed\jetified-window-java-1.2.0\res
+com.example.shoe_ecommerce.app-jetified-core-common-2.0.3-42 C:\Users\memoz\.gradle\caches\8.10.2\transforms\f2423cf53225b80979daaa59f71d8e87\transformed\jetified-core-common-2.0.3\res
+com.example.shoe_ecommerce.app-jetified-activity-1.9.3-43 C:\Users\memoz\.gradle\caches\8.10.2\transforms\fe915b268926fcba0afba554b6c2c043\transformed\jetified-activity-1.9.3\res
+com.example.shoe_ecommerce.app-debug-44 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\android\app\src\debug\res
+com.example.shoe_ecommerce.app-main-45 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\android\app\src\main\res
+com.example.shoe_ecommerce.app-pngs-46 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\app\generated\res\pngs\debug
+com.example.shoe_ecommerce.app-res-47 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\app\generated\res\processDebugGoogleServices
+com.example.shoe_ecommerce.app-resValues-48 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\app\generated\res\resValues\debug
+com.example.shoe_ecommerce.app-packageDebugResources-49 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.shoe_ecommerce.app-packageDebugResources-50 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.shoe_ecommerce.app-debug-51 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\app\intermediates\merged_res\debug\mergeDebugResources
+com.example.shoe_ecommerce.app-debug-52 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\firebase_auth\intermediates\packaged_res\debug\packageDebugResources
+com.example.shoe_ecommerce.app-debug-53 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\firebase_core\intermediates\packaged_res\debug\packageDebugResources
+com.example.shoe_ecommerce.app-debug-54 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug\packageDebugResources
+com.example.shoe_ecommerce.app-debug-55 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\fluttertoast\intermediates\packaged_res\debug\packageDebugResources
+com.example.shoe_ecommerce.app-debug-56 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\google_sign_in_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.shoe_ecommerce.app-debug-57 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\image_picker_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.shoe_ecommerce.app-debug-58 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.shoe_ecommerce.app-debug-59 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\shared_preferences_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.shoe_ecommerce.app-debug-60 C:\Users\memoz\StudioProjects\shoe project\shoe_ecommerce_app\build\sqflite_android\intermediates\packaged_res\debug\packageDebugResources

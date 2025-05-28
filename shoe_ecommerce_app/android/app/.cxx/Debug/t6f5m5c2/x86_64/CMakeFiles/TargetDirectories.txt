@@ -1,0 +1,2 @@
+E:/shoe project/shoe_ecommerce_app/android/app/.cxx/Debug/t6f5m5c2/x86_64/CMakeFiles/edit_cache.dir
+E:/shoe project/shoe_ecommerce_app/android/app/.cxx/Debug/t6f5m5c2/x86_64/CMakeFiles/rebuild_cache.dir
